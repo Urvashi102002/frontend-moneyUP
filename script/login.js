@@ -1,5 +1,5 @@
 
-const baseURL = "https://moneyup.onrender.com/";
+const baseURL = "https://moneyup.onrender.com";
 
 let signupForm = document.querySelector(".signup-form form");
 signupForm.addEventListener("submit", async (event) => {
